@@ -1,4 +1,4 @@
-# getthebuzz-tv
+# ddwbuzz-tv
 
 > A Vue.js project
 
